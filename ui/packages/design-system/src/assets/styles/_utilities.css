@@ -92,10 +92,6 @@
     margin-right: 0.25rem !important;
 }
 
-.me-2 {
-    margin-right: 0.5rem !important;
-}
-
 .mb-0 {
     margin-bottom: 0 !important;
 }
@@ -126,11 +122,6 @@
 
 .p-3 {
     padding: 1rem !important;
-}
-
-.py-3 {
-    padding-top: 1rem !important;
-    padding-bottom: 1rem !important;
 }
 
 .gap-1 {
